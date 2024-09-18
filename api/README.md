@@ -271,8 +271,7 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 
   
 
-Email - [vc8bp3@gmail.com]()
+Email - royalclothings1@gmail.com
 
   
 
-Project: [https://github.com/vc8bp/shop-api-backend](https://github.com/vc8bp/shop-api-backend)
